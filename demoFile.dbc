@@ -1,0 +1,5 @@
+SG_ S1_PID_0D_VehicleSpeed m13 : 31|8@0+ (0.00625,0) [0|255] "km/h" Vector__XXX
+SG_ S1_PID_21_Indicator m33 : 31|16@0+ (0.00625,0) [0|65535] "turning" Vector__XXX
+SG_ S1_PID_0D_VehicleSpeed m13 : 31|8@0+ (0.0125,0) [0|255] "km/h" Vector__XXX
+SG_ S1_PID_21_Indicator m33 : 31|16@0+ (0.00625,0) [0|65535] "turning" Vector__XXX
+SG_ S1_PID_0D_VehicleSpeed m13 : 31|8@0+ (0.003125,0) [0|255] "km/h" Vector__XXX
